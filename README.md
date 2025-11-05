@@ -8,17 +8,17 @@ OneCore.Net.WPF.MessageBoxes is a library that offers an extended, highly custom
 ## Preview
 (Some button labels are n German because the screenshots are made on a German windows)
 * Example 1  
-![Light](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/master/Images/1_Light.png) ![Dark](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/master/Images/1_Dark.png) ![Unstyled](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/master/Images/1_Native.png)
+![Light](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/refs/heads/master/Images/1_Light.png) ![Dark](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/refs/heads/master/Images/1_Dark.png) ![Unstyled](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/refs/heads/master/Images/1_Native.png)
 * Example 2  
-![Light](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/master/Images/2_Light.png) ![Dark](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/master/Images/2_Dark.png) ![Unstyled](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/master/Images/2_Native.png)
+![Light](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/refs/heads/master/Images/2_Light.png) ![Dark](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/refs/heads/master/Images/2_Dark.png) ![Unstyled](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/refs/heads/master/Images/2_Native.png)
 * Example 3  
-![Light](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/master/Images/3_Light.png) ![Dark](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/master/Images/3_Dark.png) ![Unstyled](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/master/Images/3_Native.png)
+![Light](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/refs/heads/master/Images/3_Light.png) ![Dark](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/refs/heads/master/Images/3_Dark.png) ![Unstyled](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/refs/heads/master/Images/3_Native.png)
 * Example 4  
-![Light](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/master/Images/4_Light.png) ![Dark](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/master/Images/4_Dark.png) ![Unstyled](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/master/Images/4_Native.png)
+![Light](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/refs/heads/master/Images/4_Light.png) ![Dark](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/refs/heads/master/Images/4_Dark.png) ![Unstyled](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/refs/heads/master/Images/4_Native.png)
 * Example 5  
-![Light](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/master/Images/5_Light.png) ![Dark](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/master/Images/5_Dark.png) ![Unstyled](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/master/Images/5_Native.png)
+![Light](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/refs/heads/master/Images/5_Light.png) ![Dark](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/refs/heads/master/Images/5_Dark.png) ![Unstyled](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/refs/heads/master/Images/5_Native.png)
 * Example 6  
-![Light](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/master/Images/6_Light.png) ![Dark](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/master/Images/6_Dark.png) ![Unstyled](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/master/Images/6_Native.png)
+![Light](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/refs/heads/master/Images/6_Light.png) ![Dark](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/refs/heads/master/Images/6_Dark.png) ![Unstyled](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/refs/heads/master/Images/6_Native.png)
 
 ## Features
 - **Styling:** Build in Light and Dark style and allow passing custom styles.
