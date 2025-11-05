@@ -8,7 +8,7 @@ using System.ComponentModel;
 using System.Windows;
 using System.Windows.Input;
 using System.Windows.Interop;
-using OneCore.Net.WinAPI;
+using OneCore.Net.WIN.WinAPI;
 using OneCore.Net.WPF.Theming;
 
 // ReSharper disable once CheckNamespace

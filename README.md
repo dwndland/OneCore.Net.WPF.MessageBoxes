@@ -1,4 +1,4 @@
-![OneCore](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/master/Icon.png)
+![OneCore](https://raw.githubusercontent.com/dwndland/OneCore.Net.WPF.MessageBoxes/refs/heads/master/Icon.png)
 
 # OneCore.Net.WPF.MessageBoxes Library
 
