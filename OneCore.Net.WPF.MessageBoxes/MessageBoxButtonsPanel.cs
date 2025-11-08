@@ -359,10 +359,11 @@ public class MessageBoxButtonsPanel : Control
 
     private bool SetDefaultButton(string elementName)
     {
-        if (GetTemplateChild(elementName) is UIElement { Visibility: Visibility.Visible } button)
+        if (GetTemplateChild(elementName) is Button { Visibility: Visibility.Visible } button)
         {
             button.Focus();
             Keyboard.Focus(button);
+            button.IsDefault = true;
             return true;
         }
 

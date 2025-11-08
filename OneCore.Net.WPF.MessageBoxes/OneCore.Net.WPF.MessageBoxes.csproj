@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net8.0-windows</TargetFramework>
     <UseWPF>true</UseWPF>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
     <Description>OneCore.Net.WPF.MessageBoxes is a library that offers an extended, highly customizable message box with a styled WPF window for enhanced user interaction.</Description>
     <RepositoryUrl>https://github.com/dwndland/OneCore.Net.WPF.MessageBoxes</RepositoryUrl>
     <PackageProjectUrl>https://github.com/dwndland/OneCore.Net.WPF.MessageBoxes</PackageProjectUrl>
