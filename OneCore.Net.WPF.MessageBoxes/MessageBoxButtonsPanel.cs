@@ -341,22 +341,22 @@ public class MessageBoxButtonsPanel : Control
                 SetCancelButton("PART_SingleOKButton");
                 break;
             case MessageBoxButtons.OKCancel:
-                SetCancelButton("PART_Cancel");
+                SetCancelButton("PART_CancelButton");
                 break;
             case MessageBoxButtons.AbortRetryIgnore:
-                SetCancelButton("PART_Abort");
+                SetCancelButton("PART_AbortButton");
                 break;
             case MessageBoxButtons.YesNoCancel:
-                SetCancelButton("PART_Cancel");
+                SetCancelButton("PART_CancelButton");
                 break;
             case MessageBoxButtons.YesNo:
-                SetCancelButton("PART_No");
+                SetCancelButton("PART_NoButton");
                 break;
             case MessageBoxButtons.RetryCancel:
-                SetCancelButton("PART_Cancel");
+                SetCancelButton("PART_CancelButton");
                 break;
             case MessageBoxButtons.CancelTryAgainContinue:
-                SetCancelButton("PART_Cancel");
+                SetCancelButton("PART_CancelButton");
                 break;
         }
     }
