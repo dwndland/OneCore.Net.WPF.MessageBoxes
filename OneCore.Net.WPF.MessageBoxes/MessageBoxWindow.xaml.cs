@@ -188,6 +188,7 @@ public partial class MessageBoxWindow : INotifyPropertyChanged
         base.OnContentRendered(e);
 
         PART_ButtonPanel.SetDefaultButton();
+        PART_ButtonPanel.SetCancelButton();
     }
 
     /// <summary>

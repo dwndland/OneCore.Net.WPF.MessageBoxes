@@ -333,6 +333,34 @@ public class MessageBoxButtonsPanel : Control
         }
     }
 
+    internal void SetCancelButton()
+    {
+        switch (Buttons)
+        {
+            case MessageBoxButtons.OK:
+                SetCancelButton("PART_SingleOKButton");
+                break;
+            case MessageBoxButtons.OKCancel:
+                SetCancelButton("PART_Cancel");
+                break;
+            case MessageBoxButtons.AbortRetryIgnore:
+                SetCancelButton("PART_Abort");
+                break;
+            case MessageBoxButtons.YesNoCancel:
+                SetCancelButton("PART_Cancel");
+                break;
+            case MessageBoxButtons.YesNo:
+                SetCancelButton("PART_No");
+                break;
+            case MessageBoxButtons.RetryCancel:
+                SetCancelButton("PART_Cancel");
+                break;
+            case MessageBoxButtons.CancelTryAgainContinue:
+                SetCancelButton("PART_Cancel");
+                break;
+        }
+    }
+
     private void CalculateDefaultButton()
     {
         switch (Buttons)
@@ -369,6 +397,12 @@ public class MessageBoxButtonsPanel : Control
 
         CalculateDefaultButton();
         return false;
+    }
+
+    private void SetCancelButton(string elementName)
+    {
+        if (GetTemplateChild(elementName) is Button { Visibility: Visibility.Visible } button)
+            button.IsCancel = true;
     }
 
     internal void TakeStyles(MessageBoxOptions.StylesContainer styles)
