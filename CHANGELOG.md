@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.0.2] - 2025-11-08
 ### Added
+- Adjusted the default button to be displayed in the windows accent colors.
 - Added a IsCancel button handling to the box for escape support.
 ### Changed
 - Set IsDefault also on the default button next to the keyboard focus.
